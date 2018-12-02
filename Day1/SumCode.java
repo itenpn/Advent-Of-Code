@@ -36,7 +36,6 @@ public class SumCode{
 				if (sum == sums.get(z))
 					return sum;						
 			}	
-			System.out.println(sum);
 			sums.add(sum);
 		}
 		}
