@@ -1,2 +1,3 @@
-# Iten's Advent of Code Repository
-I'm not that good. Don't kill me plz.
+Welcome to my solutions for Advent of Code 2018  
+
+Enter any individual day to see the answer with comments
